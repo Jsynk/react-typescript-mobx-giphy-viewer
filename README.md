@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Initial command install command
+
+### `npx create-react-app react-typescript-mobx-giphy-viewer --template typescript`
+
+## Preview
+
+![image info](./images/example.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
